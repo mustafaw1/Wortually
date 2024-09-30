@@ -1,0 +1,139 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary language used for backend development?",
+            "options": [
+                "Java",
+                "Python",
+                "C#"
+            ],
+            "answer": "Python"
+        },
+        {
+            "question": "Which database is commonly used in backend development?",
+            "options": [
+                "MySQL",
+                "MongoDB",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "What is RESTful API?",
+            "options": [
+                "A protocol",
+                "A programming language",
+                "A set of principles for building web services"
+            ],
+            "answer": "A set of principles for building web services"
+        },
+        {
+            "question": "Which of the following is not a version control system?",
+            "options": [
+                "Git",
+                "SVN",
+                "JSON"
+            ],
+            "answer": "JSON"
+        },
+        {
+            "question": "What is MVC?",
+            "options": [
+                "Model View Controller",
+                "Most Valuable Component",
+                "Maven Version Control"
+            ],
+            "answer": "Model View Controller"
+        },
+        {
+            "question": "What is the purpose of ORM in backend development?",
+            "options": [
+                "Object-Relational Mapping",
+                "Operating Resource Management",
+                "Object Revision Model"
+            ],
+            "answer": "Object-Relational Mapping"
+        },
+        {
+            "question": "Which framework is used for building scalable applications in Python?",
+            "options": [
+                "Django",
+                "Spring",
+                "Laravel"
+            ],
+            "answer": "Django"
+        },
+        {
+            "question": "What is Docker used for?",
+            "options": [
+                "Containerization",
+                "Database management",
+                "Frontend development"
+            ],
+            "answer": "Containerization"
+        },
+        {
+            "question": "What is meant by 'serverless' in backend architecture?",
+            "options": [
+                "Running applications without managing servers",
+                "Using only client-side technologies",
+                "Running applications on bare-metal servers"
+            ],
+            "answer": "Running applications without managing servers"
+        },
+        {
+            "question": "Which tool is used for asynchronous programming in Python?",
+            "options": [
+                "asyncio",
+                "requests",
+                "pandas"
+            ],
+            "answer": "asyncio"
+        },
+        {
+            "question": "What is AWS Lambda?",
+            "options": [
+                "Serverless compute service",
+                "A type of database",
+                "A frontend framework"
+            ],
+            "answer": "Serverless compute service"
+        },
+        {
+            "question": "What is the purpose of unit testing in software development?",
+            "options": [
+                "To test individual units or components of a program",
+                "To test the user interface",
+                "To test database connectivity"
+            ],
+            "answer": "To test individual units or components of a program"
+        },
+        {
+            "question": "What is Agile methodology in software development?",
+            "options": [
+                "A flexible and iterative approach to project management",
+                "A type of programming language",
+                "A database management system"
+            ],
+            "answer": "A flexible and iterative approach to project management"
+        },
+        {
+            "question": "What is the purpose of API documentation?",
+            "options": [
+                "To provide guidelines on using an API",
+                "To store data securely",
+                "To manage user permissions"
+            ],
+            "answer": "To provide guidelines on using an API"
+        },
+        {
+            "question": "Which HTTP method is typically used for retrieving data from a server?",
+            "options": [
+                "GET",
+                "POST",
+                "DELETE"
+            ],
+            "answer": "GET"
+        }
+    ]
+}

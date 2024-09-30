@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Father",
+        "status": "active"
+    },
+    {
+        "name": "Mother",
+        "status": "active"
+    },
+    {
+        "name": "Husband",
+        "status": "active"
+    },
+    {
+        "name": "Wife",
+        "status": "active"
+    },
+    {
+        "name": "Daughter",
+        "status": "active"
+    },
+    {
+        "name": "Son",
+        "status": "active"
+    },
+    {
+        "name": "Brother",
+        "status": "active"
+    },
+    {
+        "name": "Sister",
+        "status": "active"
+    }
+]

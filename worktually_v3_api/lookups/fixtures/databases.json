@@ -1,0 +1,54 @@
+[
+    {
+       "name":"Oracle RDBMS",
+       "category_id":11
+    },
+    {
+       "name":"Altibase",
+       "category_id":11
+    },
+    {
+       "name":"Microsoft SQL Server",
+       "category_id":11
+    },
+    {
+       "name":"Teradata",
+       "category_id":11
+    },
+    {
+       "name":"MySQL",
+       "category_id":11
+    },
+    {
+       "name":"Microsoft Access",
+       "category_id":11
+    },
+    {
+       "name":"SQLite",
+       "category_id":11
+    },
+    {
+       "name":"PostgresSQL",
+       "category_id":11
+    },
+    {
+       "name":"AmazonRDS",
+       "category_id":11
+    },
+    {
+       "name":"MongoDB",
+       "category_id":11
+    },
+    {
+       "name":"Hadoop HDFS",
+       "category_id":11
+    },
+    {
+       "name":"Cloudera",
+       "category_id":11
+    },
+    {
+       "name":"MariaDB",
+       "category_id":11
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "model": "employee.permission",
+        "pk": 1,
+        "fields": {
+            "permission_group": 20,
+            "name": "Roles-List"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 2,
+        "fields": {
+            "permission_group": 14,
+            "name": "Roles-View"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 3,
+        "fields": {
+            "permission_group": 14,
+            "name": "Roles-Create"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 4,
+        "fields": {
+            "permission_group": 14,
+            "name": "Roles-Edit"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 5,
+        "fields": {
+            "permission_group": 14,
+            "name": "Roles-Delete"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 6,
+        "fields": {
+            "permission_group": 13,
+            "name": "Employees-List"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 7,
+        "fields": {
+            "permission_group": 13,
+            "name": "Employees-View"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 8,
+        "fields": {
+            "permission_group": 13,
+            "name": "Employees-Edit"
+        }
+    },
+    {
+        "model": "employee.permission",
+        "pk": 9,
+        "fields": {
+            "permission_group": 13,
+            "name": "Employees-Delete"
+        }
+    }
+]

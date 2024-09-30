@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Personal Assistant",
+        "department_id": 1
+    },
+    {
+        "name": "Sales Representative",
+        "department_id": 8
+    },
+    {
+        "name": "Customer Service",
+        "department_id": 5
+    },
+    {
+        "name": "Marketing Coordinator",
+        "department_id": 2
+    },
+    {
+        "name": "Web Designer",
+        "department_id": 6
+    },
+    {
+        "name": "Web Developer",
+        "department_id": 6
+    },
+    {
+        "name": "SEO Specialist",
+        "department_id": 2
+    },
+    {
+        "name": "Content Writer",
+        "department_id": 2
+    },
+    {
+        "name": "Social Media Specialist",
+        "department_id": 2
+    },
+    {
+        "name": "Digital Advertising Specialist",
+        "department_id": 2
+    },
+    {
+        "name": "Book Keeper",
+        "department_id": 10
+    },
+    {
+        "name": "Software Developer",
+        "department_id": 6
+    },
+    {
+        "name": "SQA Engineer",
+        "department_id": 6
+    },
+    {
+        "name": "Data Scientist",
+        "department_id": 6
+    },
+    {
+        "name": "Cyber Security Engineer",
+        "department_id": 6
+    },
+    {
+        "name": "Devops Engineer",
+        "department_id": 6
+    },
+    {
+        "name": "Desktop Application Developer",
+        "department_id": 6
+    },
+    {
+        "name": "Mobile Application Developer",
+        "department_id": 6
+    },
+    {
+        "name": "Customer Care / Call Centre Representative",
+        "department_id": 5
+    },
+    {
+        "name": "Supply Chain Manager",
+        "department_id": 5
+    },
+    {
+        "name": "Business Development Manager",
+        "department_id": 21
+    },
+    {
+        "name": "Business Development Executive",
+        "department_id": 21
+    },
+    {
+        "name": "Business and Sales",
+        "department_id": 8
+    },
+    {
+        "name": "Draftsman",
+        "department_id": 17
+    },
+    {
+        "name": "Financial Consultant",
+        "department_id": 10
+    },
+    {
+        "name": "Accountant",
+        "department_id": 11
+    },
+    {
+        "name": "HR Consultant",
+        "department_id": 4
+    },
+    {
+        "name": "Technical Recruiter",
+        "department_id": 4
+    },
+    {
+        "name": "HRBP / Policy Maker",
+        "department_id": 4
+    },
+    {
+        "name": "Sounds & Audio Artist",
+        "department_id": 14
+    },
+    {
+        "name": "Podcast Editor",
+        "department_id": 14
+    },
+    {
+        "name": "Amazon Drop-shipping Expert",
+        "department_id": 19
+    },
+    {
+        "name": "Amazon FBA Expert",
+        "department_id": 19
+    },
+    {
+        "name": "Amazon Private Label Expert",
+        "department_id": 19
+    },
+    {
+        "name": "Amazon Account Manager",
+        "department_id": 19
+    },
+    {
+        "name": "Architecture & Building Designer",
+        "department_id": 35
+    },
+    {
+        "name": "Fashion Designer",
+        "department_id": 36
+    },
+    {
+        "name": "Marketing Manager",
+        "department_id": 2
+    },
+    {
+        "name": "Email Marketing Expert",
+        "department_id": 2
+    },
+    {
+        "name": "E-Commerce Marketing Expert",
+        "department_id": 2
+    },
+    {
+        "name": "Script Writer",
+        "department_id": 12
+    },
+    {
+        "name": "Ghost Writer",
+        "department_id": 12
+    },
+    {
+        "name": "Video Editor",
+        "department_id": 14
+    },
+    {
+        "name": "Animation Artist",
+        "department_id": 14
+    },
+    {
+        "name": "Content Editor",
+        "department_id": 12
+    },
+    {
+        "name": "Graphic Designer",
+        "department_id": 14
+    },
+    {
+        "name": "Game Developer",
+        "department_id": 6
+    },
+    {
+        "name": "AI/ML Engineer",
+        "department_id": 6
+    }
+]

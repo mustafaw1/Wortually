@@ -1,0 +1,54 @@
+[
+    {
+       "name":"Sales Force",
+       "category_id":5
+    },
+    {
+       "name":"Airtable",
+       "category_id":5
+    },
+    {
+       "name":"Alore Crm",
+       "category_id":5
+    },
+    {
+       "name":"Hubspot",
+       "category_id":5
+    },
+    {
+       "name":"Pipe Drive",
+       "category_id":5
+    },
+    {
+       "name":"Clear Bit",
+       "category_id":5
+    },
+    {
+       "name":"Lead Genuis",
+       "category_id":5
+    },
+    {
+       "name":"Linkedin Sales Navigator",
+       "category_id":5
+    },
+    {
+       "name":"Prospect.io",
+       "category_id":5
+    },
+    {
+       "name":"Tableau",
+       "category_id":5
+    },
+    {
+       "name":"Lucid Chart Sales Solution ",
+       "category_id":5
+    },
+    {
+       "name":"Clari",
+       "category_id":5
+    },
+    {
+       "name":"Sales Tool Management",
+       "category_id":5
+    }
+]

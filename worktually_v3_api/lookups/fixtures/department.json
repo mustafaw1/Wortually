@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Administration",
+        "status": "Active"
+    },
+    {
+        "name": "Marketing",
+        "status": "Active"
+    },
+    {
+        "name": "Purchasing",
+        "status": "Active"
+    },
+    {
+        "name": "Human Resources",
+        "status": "Active"
+    },
+    {
+        "name": "Shipping",
+        "status": "Active"
+    },
+    {
+        "name": "IT",
+        "status": "Active"
+    },
+    {
+        "name": "Public Relations",
+        "status": "Active"
+    },
+    {
+        "name": "Sales",
+        "status": "Active"
+    },
+    {
+        "name": "Executive",
+        "status": "Active"
+    },
+    {
+        "name": "Finance",
+        "status": "Active"
+    },
+    {
+        "name": "Accounting",
+        "status": "Active"
+    },
+    {
+        "name": "Treasury",
+        "status": "Active"
+    },
+    {
+        "name": "Corporate Tax",
+        "status": "Active"
+    },
+    {
+        "name": "Control And Credit",
+        "status": "Active"
+    },
+    {
+        "name": "Shareholder Services",
+        "status": "Active"
+    },
+    {
+        "name": "Benefits",
+        "status": "Active"
+    },
+    {
+        "name": "Manufacturing",
+        "status": "Active"
+    },
+    {
+        "name": "Construction",
+        "status": "Active"
+    },
+    {
+        "name": "Contracting",
+        "status": "Active"
+    },
+    {
+        "name": "Operations",
+        "status": "Active"
+    },
+    {
+        "name": "IT Support",
+        "status": "Active"
+    },
+    {
+        "name": "NOC",
+        "status": "Active"
+    },
+    {
+        "name": "IT Helpdesk",
+        "status": "Active"
+    },
+    {
+        "name": "Government Sales",
+        "status": "Active"
+    },
+    {
+        "name": "Retail Sales",
+        "status": "Active"
+    },
+    {
+        "name": "Recruiting",
+        "status": "Active"
+    },
+    {
+        "name": "Payroll",
+        "status": "Active"
+    }
+]

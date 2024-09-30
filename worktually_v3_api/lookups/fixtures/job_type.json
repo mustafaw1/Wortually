@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Full-Time",
+        "status": "active"
+    },
+    {
+        "name": "Part-Time",
+        "status": "active"
+    },
+    {
+        "name": "Contract",
+        "status": "active"
+    },
+    {
+        "name": "Internship",
+        "status": "active"
+    },
+    {
+        "name": "Temporary",
+        "status": "active"
+    }
+]

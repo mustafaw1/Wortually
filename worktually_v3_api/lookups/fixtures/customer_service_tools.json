@@ -1,0 +1,62 @@
+[
+    {
+       "name":"Hubspot Service Hub",
+       "category_id":6
+    },
+    {
+       "name":"Olark Live Chat",
+       "category_id":6
+    },
+    {
+       "name":"Azure desk",
+       "category_id":6
+    },
+    {
+       "name":"Zoom",
+       "category_id":6
+    },
+    {
+       "name":"Lessonly",
+       "category_id":6
+    },
+    {
+       "name":"Help Crunch",
+       "category_id":6
+    },
+    {
+       "name":"Intercom",
+       "category_id":6
+    },
+    {
+       "name":"Crisp",
+       "category_id":6
+    },
+    {
+       "name":"Help Scout",
+       "category_id":6
+    },
+    {
+       "name":"Zendesk",
+       "category_id":6
+    },
+    {
+       "name":"Drift",
+       "category_id":6
+    },
+    {
+       "name":"Pure Chat",
+       "category_id":6
+    },
+    {
+       "name":"Click Desk",
+       "category_id":6
+    },
+    {
+       "name":"Fresh desk",
+       "category_id":6
+    },
+    {
+       "name":"Customer Service Tool Management",
+       "category_id":6
+    }
+]

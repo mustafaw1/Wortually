@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Full-Time",
+        "status": "active"
+    },
+    {
+        "name": "Part-Time",
+        "status": "active"
+    },
+    {
+        "name": "Contract",
+        "status": "active"
+    },
+    {
+        "name": "Temporary",
+        "status": "active"
+    },
+    {
+        "name": "Intern",
+        "status": "active"
+    },
+    {
+        "name": "Freelancer",
+        "status": "active"
+    },
+    {
+        "name": "Consultant",
+        "status": "active"
+    },
+    {
+        "name": "Seasonal",
+        "status": "active"
+    },
+    {
+        "name": "Remote",
+        "status": "active"
+    },
+    {
+        "name": "On-Call",
+        "status": "active"
+    },
+    {
+        "name": "Apprentice",
+        "status": "active"
+    },
+    {
+        "name": "Probationary",
+        "status": "active"
+    },
+    {
+        "name": "Casual",
+        "status": "active"
+    },
+    {
+        "name": "Hourly",
+        "status": "active"
+    }
+]

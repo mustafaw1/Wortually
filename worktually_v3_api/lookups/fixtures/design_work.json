@@ -1,0 +1,46 @@
+[
+    {
+       "name":"Brochure design",
+       "category_id":8
+    },
+    {
+       "name":"Web Design",
+       "category_id":8
+    },
+    {
+       "name":"Graphic Design",
+       "category_id":8
+    },
+    {
+       "name":"Front End Design",
+       "category_id":8
+    },
+    {
+       "name":"Display Ad Design",
+       "category_id":8
+    },
+    {
+       "name":"Logo Design",
+       "category_id":8
+    },
+    {
+       "name":"Business Card Design",
+       "category_id":8
+    },
+    {
+       "name":"Marketing Collateral",
+       "category_id":8
+    },
+    {
+       "name":"Website Design",
+       "category_id":8
+    },
+    {
+       "name":"Mobile App Design",
+       "category_id":8
+    },
+    {
+       "name":"Social Media Design",
+       "category_id":8
+    }
+]

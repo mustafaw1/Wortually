@@ -1,0 +1,66 @@
+[
+    {
+       "name":"Asana",
+       "category_id":4
+    },
+    {
+       "name":"Trello",
+       "category_id":4
+    },
+    {
+       "name":"Bitrix ",
+       "category_id":4
+    },
+    {
+       "name":"Google Drive",
+       "category_id":4
+    },
+    {
+       "name":"Slack",
+       "category_id":4
+    },
+    {
+       "name":"Google Hangout",
+       "category_id":4
+    },
+    {
+       "name":"Dropbox",
+       "category_id":4
+    },
+    {
+       "name":"Google Sheets",
+       "category_id":4
+    },
+    {
+       "name":"Google Docs",
+       "category_id":4
+    },
+    {
+       "name":"Evernote",
+       "category_id":4
+    },
+    {
+       "name":"Google Slides",
+       "category_id":4
+    },
+    {
+       "name":"Zoho People",
+       "category_id":4
+    },
+    {
+       "name":"Microsoft Office",
+       "category_id":4
+    },
+    {
+       "name":"Admin Tool Management",
+       "category_id":4
+    },
+    {
+       "name":"Flock",
+       "category_id":4
+    },
+    {
+       "name":"Admin Software Knowledge",
+       "category_id":4
+    }
+]

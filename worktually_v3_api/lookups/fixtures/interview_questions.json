@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Question 1",
+        "status": "Active",
+        "questions": "What interests you about this position?"
+    },
+    {
+        "name": "Question 2",
+        "status": "Active",
+        "questions": "Describe a project you worked on that required teamwork."
+    },
+    {
+        "name": "Question 3",
+        "status": "Active",
+        "questions": "How do you handle stressful situations?"
+    },
+    {
+        "name": "Question 4",
+        "status": "Active",
+        "questions": "What do you consider your greatest strength?"
+    },
+    {
+        "name": "Question 5",
+        "status": "Active",
+        "questions": "Tell me about a time you made a mistake and how you handled it."
+    },
+    {
+        "name": "Question 6",
+        "status": "Active",
+        "questions": "What skills or experiences make you a good fit for this role?"
+    },
+    {
+        "name": "Question 7",
+        "status": "Active",
+        "questions": "How do you prioritize tasks and manage your time?"
+    },
+    {
+        "name": "Question 8",
+        "status": "Active",
+        "questions": "Describe a situation where you had to learn something new quickly."
+    },
+    {
+        "name": "Question 9",
+        "status": "Active",
+        "questions": "What motivates you in your career?"
+    },
+    {
+        "name": "Question 10",
+        "status": "Active",
+        "questions": "Describe a challenge you faced at work and how you overcame it."
+    },
+    {
+        "name": "Question 11",
+        "status": "Active",
+        "questions": "How do you stay updated with industry trends and developments?"
+    },
+    {
+        "name": "Question 12",
+        "status": "Active",
+        "questions": "What do you do if you disagree with a colleague's approach to a project?"
+    },
+    {
+        "name": "Question 13",
+        "status": "Active",
+        "questions": "Describe a time when you provided excellent customer service."
+    },
+    {
+        "name": "Question 14",
+        "status": "Active",
+        "questions": "How do you handle constructive criticism?"
+    },
+    {
+        "name": "Question 15",
+        "status": "Active",
+        "questions": "What are your long-term career goals?"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Software Engineer",
+        "status": "active"
+    },
+    {
+        "name": "Project Manager",
+        "status": "active"
+    },
+    {
+        "name": "Data Analyst",
+        "status": "active"
+    },
+    {
+        "name": "HR Manager",
+        "status": "active"
+    },
+    {
+        "name": "Marketing Specialist",
+        "status": "active"
+    },
+    {
+        "name": "Sales Representative",
+        "status": "active"
+    }
+]

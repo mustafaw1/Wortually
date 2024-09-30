@@ -1,0 +1,38 @@
+[
+    {
+       "name":"Google Webmaster",
+       "category_id":15
+    },
+    {
+       "name":"Bing Webmaster",
+       "category_id":15
+    },
+    {
+       "name":"Google Analytics",
+       "category_id":15
+    },
+    {
+       "name":"Google Tag Manager",
+       "category_id":15
+    },
+    {
+       "name":"Ahref",
+       "category_id":15
+    },
+    {
+       "name":"SEMrush",
+       "category_id":15
+    },
+    {
+       "name":"Moz",
+       "category_id":15
+    },
+    {
+       "name":"Google Search Console",
+       "category_id":15
+    },
+    {
+       "name":"SEO Tool Management",
+       "category_id":15
+    }
+]

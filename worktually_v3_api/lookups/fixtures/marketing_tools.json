@@ -1,0 +1,42 @@
+[
+    {
+       "name":"Hub Spot Crm",
+       "category_id":7
+    },
+    {
+       "name":"Zoho Crm",
+       "category_id":7
+    },
+    {
+       "name":"Buffer",
+       "category_id":7
+    },
+    {
+       "name":"Hoote suite",
+       "category_id":7
+    },
+    {
+       "name":"Lead Pages",
+       "category_id":7
+    },
+    {
+       "name":"Mail Chimp",
+       "category_id":7
+    },
+    {
+       "name":"Active Campaign",
+       "category_id":7
+    },
+    {
+       "name":"Marketo",
+       "category_id":7
+    },
+    {
+       "name":"Google Trends",
+       "category_id":7
+    },
+    {
+       "name":"Marketing Tool Management",
+       "category_id":7
+    }
+]

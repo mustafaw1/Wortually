@@ -1,0 +1,62 @@
+[
+  {
+    "name": "CA",
+    "category_id": 19
+  },
+  {
+    "name": "CPA",
+    "category_id": 19
+  },
+  {
+    "name": "CMA",
+    "category_id": 19
+  },
+  {
+    "name": "CFP",
+    "category_id": 19
+  },
+  {
+    "name": "Financial Reporting",
+    "category_id": 19
+  },
+  {
+    "name": "QuickBooks",
+    "category_id": 19
+  },
+  {
+    "name": "FreshBooks",
+    "category_id": 19
+  },
+  {
+    "name": "SAP Concur",
+    "category_id": 19
+  },
+  {
+    "name": "Zoho Books",
+    "category_id": 19
+  },
+  {
+    "name": "Business Accounting",
+    "category_id": 19
+  },
+  {
+    "name": "Finance Audit",
+    "category_id": 19
+  },
+  {
+    "name": "Account Reconciliation",
+    "category_id": 19
+  },
+  {
+    "name": "Tax Accounting",
+    "category_id": 19
+  },
+  {
+    "name": "Cost Accounting",
+    "category_id": 19
+  },
+  {
+    "name": "Accounting Software Management",
+    "category_id": 19
+  }
+]
